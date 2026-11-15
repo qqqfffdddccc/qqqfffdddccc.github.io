@@ -1,0 +1,25 @@
+{
+  "title": "Seva Mogilev",
+  "accent": "#263e0f",
+  "motion": "haze",
+  "motionIntensity": {
+    "off": 40,
+    "haze": 100,
+    "fall": 80,
+    "glitch": 68,
+    "video": 40
+  },
+  "motionOpacity": {
+    "off": 100,
+    "haze": 48,
+    "fall": 100,
+    "glitch": 100,
+    "video": 100
+  },
+  "backgroundVideo": {
+    "src": "/media/_home/_backdrops/ef0e7859-6c7f-4563-bc0f-c2f3077222fc.mp4",
+    "fileName": "ScreenRecording_04-20-2026 02-39-12_1.mov"
+  },
+  "backgroundGrain": 7,
+  "fontSize": 16
+}

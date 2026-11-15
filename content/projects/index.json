@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "demo",
+    "title": "Демо",
+    "excerpt": "Титры",
+    "cover": "/media/demo/cover-tone-cover.png"
+  },
+  {
+    "slug": "proekt",
+    "title": "Дум 2016",
+    "excerpt": "DOOM 2016",
+    "cover": "/media/proekt/the%20fear-cover.jpg"
+  },
+  {
+    "slug": "km",
+    "title": "км",
+    "excerpt": "",
+    "cover": "/media/km/rm.png"
+  },
+  {
+    "slug": "topi",
+    "title": "Топи",
+    "excerpt": "ТОПИ",
+    "cover": "/media/topi/_covers/14a0a00e-eac8-4d75-95b0-0c06aa3826a8.png"
+  }
+]

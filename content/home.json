@@ -1,0 +1,104 @@
+{
+  "intro": {
+    "ru": "созидание звуков",
+    "en": ""
+  },
+  "heroBackground": "off",
+  "about": {
+    "ru": "допустим",
+    "en": ""
+  },
+  "aboutBackground": "band",
+  "entries": [
+    {
+      "id": "73bbc96b-6dc5-4922-90cc-bad6314819f3",
+      "kind": "work",
+      "href": "/p/topi",
+      "logo": "/media/_home/a915eb09-1eb2-452b-8543-eb79579e1a25.png",
+      "title": {
+        "ru": "Топи",
+        "en": ""
+      },
+      "description": {
+        "ru": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "9539be08-334a-424c-a993-fd64a64a5b49",
+      "kind": "work",
+      "href": "/p/proekt",
+      "logo": "",
+      "title": {
+        "ru": "DOOM 2016",
+        "en": ""
+      },
+      "description": {
+        "ru": "DOOM 2016",
+        "en": ""
+      }
+    }
+  ],
+  "signature": {
+    "text": "020720031033VM; Вся музыка была создана Всеволодом Могилёвым; \n2026. Все права защищены. ",
+    "icons": [
+      {
+        "src": "/media/_home/03784b43-2081-4f83-8577-f8dc2f37ecc0.png",
+        "alt": "F33_W"
+      },
+      {
+        "src": "/media/_home/342751d8-a5be-44dc-861b-fc1f60025285.png",
+        "alt": "33_W"
+      },
+      {
+        "src": "/media/_home/da3fd788-5332-4f27-ad68-d6521726132b.png",
+        "alt": "EAR_W"
+      },
+      {
+        "src": "/media/_home/fd937478-ec07-44b6-abaf-e2bdabaf16b3.png",
+        "alt": "TRASHED_W"
+      },
+      {
+        "src": "/media/_home/75c5667d-1d1a-4744-8d0a-c58bf8de2823.png",
+        "alt": "CM_500"
+      }
+    ],
+    "align": "center",
+    "textAlign": "center",
+    "size": 60
+  },
+  "blocks": [
+    {
+      "id": "home-entry-73bbc96b-6dc5-4922-90cc-bad6314819f3",
+      "type": "article",
+      "slug": "topi",
+      "display": "banner",
+      "entryId": "73bbc96b-6dc5-4922-90cc-bad6314819f3",
+      "banner": {
+        "title": {
+          "fontSize": 200,
+          "align": "center",
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "strike": false,
+          "text": ""
+        },
+        "details": "Топи 2026"
+      },
+      "plate": false
+    },
+    {
+      "id": "9ddff9cc-e6bd-46f6-90c3-5f14159fe3f7",
+      "type": "text",
+      "text": "Долго ли, коротко ли... Но он почти увяз\n\n\n\n\n\n\n\n\n\n\n\n",
+      "fontSize": 18,
+      "align": "left",
+      "bold": false,
+      "italic": false,
+      "underline": false,
+      "strike": false,
+      "plate": false
+    }
+  ]
+}

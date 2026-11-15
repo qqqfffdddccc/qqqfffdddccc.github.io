@@ -1,0 +1,17 @@
+{
+  "slug": "km",
+  "title": "км",
+  "blocks": [
+    {
+      "id": "9fcffce1-d2cc-4b32-bc3c-ab8cdbcc27f6",
+      "type": "image",
+      "src": "/media/km/rm.png",
+      "fileName": "rm.png",
+      "comment": "",
+      "align": "left",
+      "width": 100,
+      "commentPlace": "below",
+      "plate": false
+    }
+  ]
+}
