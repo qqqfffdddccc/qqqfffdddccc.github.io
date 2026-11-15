@@ -17,7 +17,7 @@
     {
       "id": "3564e45a-e9c3-4ec0-8065-1aa4893db519",
       "type": "text",
-      "text": "Вчера были глубже, куда глубже\n\n\n",
+      "text": "Вчера были глубже, куда глубже\n",
       "fontSize": 18,
       "align": "left",
       "bold": false,
@@ -45,7 +45,7 @@
           "type": "image",
           "src": "/media/topi/im_p.png",
           "fileName": "im_p.png",
-          "comment": "Переработка первого сборника демок в более целостный и актуальный для меня внутренне формат",
+          "comment": "",
           "align": "left",
           "width": 100,
           "commentPlace": "below"
@@ -61,6 +61,7 @@
           "commentPlace": "below"
         }
       ],
+      "comment": "Переработка первого сборника демок в более целостный и актуальный для меня внутренне формат",
       "plate": false,
       "scale": 2
     },
@@ -2586,12 +2587,21 @@
     {
       "id": "c0aada2c-0c7b-4f7f-abd0-609f68c0c2b0",
       "type": "video",
-      "src": "/media/topi/_video/%D1%80%D0%B0%D1%81%D1%82%D0%B8%D1%82%D1%8C%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%BD%D0%B0%20%D0%BF%D0%B5%D0%BF%D0%BB%D0%B5%20%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B3%D0%BE_hd_lq_sh.mov.mp4",
-      "fileName": "растить новое на пепле старого_hd_lq_sh.mov",
+      "src": "/media/topi/_video/vidfire.mov.mov.mp4",
+      "fileName": "vidfire.mov.mov",
       "comment": "строить новое на пепле старого",
       "align": "center",
       "commentPlace": "below",
-      "grain": 16,
+      "grain": 67,
+      "overlay": {
+        "fontSize": 18,
+        "align": "center",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strike": false,
+        "text": ""
+      },
       "plate": true,
       "band": true
     }
